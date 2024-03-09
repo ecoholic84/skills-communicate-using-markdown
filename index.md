@@ -11,3 +11,7 @@ int main()
   cout << "Hello World! " << x << std::endl();
 }
 ```
+
+- [x] Enable GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
